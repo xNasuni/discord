@@ -1,5 +1,5 @@
 {
-  "token1": "token1",
-  "token2": "token2",
-  "gcid": "groupchat_id"
+  "Token1": "token1",
+  "Token2": "token2",
+  "GCID": "groupchat_id"
 }
