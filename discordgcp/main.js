@@ -1,4 +1,3 @@
-
 const { Token1, Token2, GCID } = require('./config.json');
 const Discord = require('discord.js-selfbot-v13');
 
